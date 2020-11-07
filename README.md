@@ -1,7 +1,5 @@
 # TS Got Tallent
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8a23c9c13c9640c3b6c17b5a41882b92)](https://app.codacy.com/gh/99002626/2009MYSSPSPSB1_AndroidProject?utm_source=github.com&utm_medium=referral&utm_content=99002626/2009MYSSPSPSB1_AndroidProject&utm_campaign=Badge_Grade)
-
 A simple  application created in android studio using Recycler View, ExoPlayer to play custom videos and YouTube API to fetch video of Dusshera events from YouTube. Features:- 1.Regisration and Login 2.Good UI 3.Glipmpse of various entries to the Talent Competition 'TS Got Talent' 4.Winners of the Competition 5. Categories of the Event
 
 
