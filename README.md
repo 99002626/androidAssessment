@@ -1,5 +1,5 @@
 # TS Got Tallent
-#Online APK link
+# Online APK link
 https://appetize.io/app/vebgfudbv7jfbxuzj03wwda06c
 
 A simple  application created in android studio using Recycler View, ExoPlayer to play custom videos and YouTube API to fetch video of Dusshera events from YouTube. Features:- 1.Regisration and Login 2.Good UI 3.Glipmpse of various entries to the Talent Competition 'TS Got Talent' 4.Winners of the Competition 5. Categories of the Event
