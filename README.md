@@ -3,7 +3,7 @@
 https://appetize.io/app/vebgfudbv7jfbxuzj03wwda06c
 # Name : NITHYA P
 # Ps No. : 99002626
-# Demo
+# Demo Video of app
 [Click me to View Demo](https://user-images.githubusercontent.com/72501979/98433635-c38c7700-20ee-11eb-9e7f-358d30da4859.gif)
 
 A simple  application created in android studio using Recycler View, ExoPlayer to play custom videos and YouTube API to fetch video of Dusshera events from YouTube. Features:- 1.Regisration and Login 2.Good UI 3.Glipmpse of various entries to the Talent Competition 'TS Got Talent' 4.Winners of the Competition 5. Categories of the Event
