@@ -18,6 +18,7 @@ ExoPlayer
   <img src="images/ss3.jpeg" width="350" title="Welcome">
   <img src="images/ss4.jpeg" width="350" title="Winners">
   <img src="images/ss5.jpeg" width="350" title="About the Event">
+   <img src="images/exo.jpeg" width="350" title="Exo player">
 </p>
 
 # Features:
